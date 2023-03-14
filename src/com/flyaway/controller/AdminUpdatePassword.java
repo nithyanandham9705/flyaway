@@ -13,7 +13,7 @@ import javax.servlet.http.HttpSession;
 import com.flyaway.dao.AdminDAO;
 
 /**
- * Servlet implementation class AdminUpdatePassword
+ * Servlet Implementation class AdminUpdatePassword
  */
 @WebServlet("/adminupdatepassword")
 public class AdminUpdatePassword extends HttpServlet {
