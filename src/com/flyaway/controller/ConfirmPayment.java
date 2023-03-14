@@ -16,7 +16,7 @@ import com.flyaway.model.Flight;
 import com.flyaway.model.Reservation;
 
 /**
- * Servlet implementation class ConfirmPayment
+ * Servlet Implementation class ConfirmPayment
  */
 @WebServlet("/confirmpayment")
 public class ConfirmPayment extends HttpServlet {
