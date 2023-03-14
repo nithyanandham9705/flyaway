@@ -7,7 +7,7 @@ public class Customer {
 	private String lastName;
 	private String email;
 	private String password;
-	private string phone;
+	private String phone;
 
 
 	public int getCustomerId() {
