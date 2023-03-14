@@ -795,7 +795,7 @@ public class CustomerDAO {
 	}
 
 	public String getDay(Date theDate) {
-		SimpleDateFormat sdf = new SimpleDateFormat("EEEE");
+		SimpleDateFormat sdf = new SimpleDateFormat("EEE");
 		String day = sdf.format(theDate);
 		return day;
 	}
