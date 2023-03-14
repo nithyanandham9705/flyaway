@@ -17,7 +17,7 @@ import com.flyaway.dao.CustomerDAO;
 import com.flyaway.model.Flight;
 
 /**
- * Servlet implementation class Login
+ * Servlet Implementation class Login
  */
 @WebServlet("/login")
 public class Login extends HttpServlet {
