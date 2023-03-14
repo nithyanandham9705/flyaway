@@ -14,7 +14,7 @@ public class Reservation {
 
 	public Reservation() {
 		super();
-		// TODO Auto-generated constructor stub
+		// TODO Auto-generated constructor stu
 	}
 
 	public Reservation(int flightNumber, String travelClass, Date travelDate, int passengers, double totalFare,
