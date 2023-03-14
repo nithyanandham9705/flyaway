@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 /**
- * Servlet implementation class AddFareDetailSubmit
+ * Servlet implementation class AddFarEDetailSubmit
  */
 @WebServlet("/addfaredetailssubmit")
 public class AddFareDetailsSubmit extends HttpServlet {
