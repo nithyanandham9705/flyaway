@@ -30,7 +30,7 @@ Home page displays options to Book Flight, Customer Login and Admin Login.
 - Admin can login into website with their details
 - If the details provided are correct admin is sent to Admin Details Page
 - In Admin details page admin can see list of all the available flights
-- Admin also has the option to Add a new flight and fare related details
+- Admin also has the option to Add a new flight and fare related detail
 - Admin can also change their password if they wish to
 
 
