@@ -34,7 +34,7 @@ public class DBConnect {
 //	public static void main(String[] args) {
 //
 //			getConnection();
-//			System.out.println("Connection Established");
+//			System.out.println("Connection EStablished");
 //
 //	}
 	 
