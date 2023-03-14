@@ -5,7 +5,7 @@ public class Airport {
 	private String airportCode;
 	private String airport;
 	private String countryCode;
-	private String country;
+	private string country;
 
 	public String getAirportCode() {
 		return airportCode;
