@@ -14,7 +14,7 @@ import com.flyaway.dao.AdminDAO;
 import com.flyaway.model.Flight;
 
 /**
- * Servlet implementation class AdminAddFlight
+ * Servlet implementation class AdminAddFLight
  */
 @WebServlet("/addflightadmin")
 public class AdminAddFlight extends HttpServlet {
