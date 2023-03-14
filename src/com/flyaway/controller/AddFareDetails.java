@@ -71,7 +71,7 @@ public class AddFareDetails extends HttpServlet {
 
 		}else {
 
-			request.setAttribute("FAIL", "ERROR Occured while adding Fare");
+			request.setAttribute("fail", "ERROR Occured while adding Fare");
 			rd = getServletContext().getRequestDispatcher("/admindetails.jsp");
 			rd.forward(request, response);
 		}
