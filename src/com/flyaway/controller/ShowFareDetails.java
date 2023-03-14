@@ -17,7 +17,7 @@ import com.flyaway.model.Fare;
 import com.flyaway.model.Flight;
 
 /**
- * Servlet implementation class ShowFareDetails
+ * Servlet Implementation class ShowFareDetails
  */
 @WebServlet("/showfaredetails")
 public class ShowFareDetails extends HttpServlet {
