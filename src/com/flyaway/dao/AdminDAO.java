@@ -162,8 +162,8 @@ public class AdminDAO {
 		Admin admin = new Admin();
 
 		try {
-			con = DBConnect.getConnection();
-			pst = con.prepareStatement(sql);
+			conn = DBConnect.getConnection();
+			pst = conn.prepareStatement(sql);
 			pst.setInt(1, adminId);
 			ResultSet rs = pst.executeQuery();
 			rs.next();
@@ -177,14 +177,14 @@ public class AdminDAO {
 			e.printStackTrace();
 		}finally {
 			try {
-				con.close();
+				conn.close();
 			}catch (Exception e) {
 				e.printStackTrace();
 			}
 
 		}
 
-		return admin;
+		return admin:
 	}	
 
 }
