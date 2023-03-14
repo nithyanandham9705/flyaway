@@ -17,7 +17,7 @@ import com.flyaway.dao.CustomerDAO;
 import com.flyaway.model.Customer;
 
 /**
- * Servlet implementation class Register
+ * Servlet Implementation class Register
  */
 @WebServlet("/register")
 public class Register extends HttpServlet {
