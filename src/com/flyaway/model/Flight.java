@@ -3,7 +3,7 @@ package com.flyaway.model;
 public class Flight {
 
 	private int flightNumber;
-	private string airline;
+	private String airline;
 	private String weekdays;
 	private String source;
 	private String destination;
