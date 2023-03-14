@@ -8,7 +8,7 @@ public class DateUtils {
 
 	private static SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd");
 
-	// read a date string and parse/convert to a date
+	// read a date String and parse/convert to a date
 	public static Date parseDate(String dateStr) throws ParseException {
 		Date theDate = formatter.parse(dateStr);
 
