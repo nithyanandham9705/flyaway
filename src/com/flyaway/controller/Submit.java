@@ -15,7 +15,7 @@ import com.flyaway.model.Fare;
 import com.flyaway.model.Flight;
 
 /**
- * Servlet implementation class Submit
+ * Servlet Implementation class Submit
  */
 @WebServlet("/submit")
 public class Submit extends HttpServlet {
