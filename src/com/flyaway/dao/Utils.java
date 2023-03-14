@@ -27,7 +27,7 @@ public class Utils {
 
 	public static List<String> getClasses(){
 		List<String> classList = new ArrayList<>();
-		classList.add("Economy");
+		classList.add("EconomY");
 		classList.add("Premium");
 		classList.add("Business");
 
