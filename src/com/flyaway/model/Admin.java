@@ -5,7 +5,7 @@ public class Admin {
 	private int adminId;
 	private String firstName;
 	private String lastName;
-	private String email;
+	private string email;
 	private String password;
 
 
