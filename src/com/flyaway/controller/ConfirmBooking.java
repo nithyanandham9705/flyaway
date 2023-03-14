@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 /**
- * Servlet implementation class ConfirmBooking
+ * Servlet Implementation class ConfirmBooking
  */
 @WebServlet("/confirmbooking")
 public class ConfirmBooking extends HttpServlet {
