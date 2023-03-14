@@ -3,7 +3,7 @@ package com.flyaway.model;
 public class Fare {
 
 	private int flightNumber;
-	private string travelClass;
+	private String travelClass;
 	private double fare;
 	public int getFlightNumber() {
 		return flightNumber;
